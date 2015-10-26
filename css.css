@@ -1,0 +1,24 @@
+html {
+	height:100%;
+	/*fond en dégradé gris*/
+	background:radial-gradient(circle, #fff 20%, #ccc);
+	background-size:cover;
+	vertical-align:middle;
+}
+
+body
+{
+	font-family:Calibri;
+	vertical-align:middle;
+	text-align:center;
+}
+
+#renderCanvas
+{
+	background:black;
+	margin:auto;
+	margin-top:10px;
+	width:1280px;
+	height:720px;
+	border-color:#090974;
+}
